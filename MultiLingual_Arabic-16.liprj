@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="https://github.com/test1MC/flare11.git" SourceSourceControlDatabaseRoot="https://github.com/test1MC/flare11.git/" SourceProjectGuid="280a472b-3871-4439-acc1-e1c2942c8b6b" SourceControlDatabaseRoot="C:\Users\dspencer\Documents\My Translated Projects\MultiLingual_Arabic-16.liprjf" SourceControlDatabase="C:\Users\dspencer\Documents\My Translated Projects\MultiLingual_Arabic-16.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="a0eebf84-5988-40b8-9c2a-5a51f50406dd">
+    <ProjectFile Source="Target/LingoGIT.flprj" Target="Target/LingoGIT.flprj" />
+</LingoProject>
